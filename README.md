@@ -1,1 +1,1 @@
-Git work
+Git works
